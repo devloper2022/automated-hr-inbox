@@ -1,0 +1,4 @@
+
+2. Place sample resumes in `sample_resumes/`.  
+3. Run `main.py`:
+
